@@ -33,13 +33,13 @@ img {
 
 <h1>Welcome to</h1>
 
-<img src="https://www.jenkins.io/images/logos/jenkins-logo.png" alt="Jenkins Logo">
+<img src="WhatsApp Image 2023-10-02 at 23.10.28_cb271017.jpg">
 
 <h2 class="jenkins">Jenkins</h2>
 
-<h3 class="job">My job is done with jenkins</h3>
+<h3 class="job">i am a devops engineer</h3>
 
-<p class="footer">Welcome to friends, anu and eswar on behalf of DevOps Academy</p>
+<p class="footer">Welcome to friends,  madhu and  rahul on behalf of champions Academy</p>
 
 </body>
 </html>
