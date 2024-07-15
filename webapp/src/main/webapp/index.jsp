@@ -125,25 +125,25 @@ h2 {
   <div class="certificate">
     <h1>CERTIFICATE OF COMPLETION</h1>
     <h3 class="date">November 22, 2022</h3>
-    <h2 class="name">C Vinay (vinnu)</h2>
+    <h2 class="name">Chilamala  Vinay kumar</h2>
   </div>
 
   <div class="details">
-    <p><strong>Salesforce Developer Virtual Internship</strong></p>
-    <p>During the 8 Weeks period of Virtual Internship (August-October 2022), vinnu has completed the following Salesforce Trailhead modules:</p>
+    <p><strong>DevOps Virtual Internship</strong></p>
+    <p>During the 8 Weeks period of Virtual Internship (August-October 2022), vinnu has completed the following DevOps Virtual Internshi:</p>
   </div>
 
   <div class="modules">
     <ul>
-      <li>Salesforce Fundamentals</li>
-      <li>Organizational Setup</li>
-      <li>Relationship & Process Automation</li>
-      <li>Types Of Flows & Security</li>
-      <li>Apex, Testing & Debugging</li>
+      <li>GIt Fundamentals</li>
+      <li>Jenkins Setup</li>
+      <li> Process Automation</li>
+      <li>CI/CD</li>
+      <li>Testing & Debugging</li>
       <li>VS Code Setup & CLI Setup</li>
-      <li>Lightning Web Components (LWC) & API</li>
-      <li>Super Badge - Apex Specialist</li>
-      <li>Super Badge - Process Automation Specialist</li>
+      <li>AWS Pipeline</li>
+      <li>EC2</li>
+      <li>one click deployement</li>
     </ul>
 </div>
 </body>
