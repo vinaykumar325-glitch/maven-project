@@ -136,7 +136,7 @@ h2 {
 
   <div class="details">
     <p><strong>Salesforce Developer Virtual Internship</strong></p>
-    <p>During the 8 Weeks period of Virtual Internship (August-October 2022), C Vinay Kumar has completed the following Salesforce Trailhead modules:</p>
+    <p>During the 8 Weeks period of Virtual Internship (August-October 2022), vinnu has completed the following Salesforce Trailhead modules:</p>
   </div>
 
   <div class="modules">
