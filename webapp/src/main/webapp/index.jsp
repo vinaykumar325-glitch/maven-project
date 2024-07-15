@@ -121,13 +121,7 @@ h2 {
 </head>
 <body>
 <div class="container">
-  <div class="header">
-    <img class="logo" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FTheBoyFromMadeira%2F&psig=AOvVaw1yuPc39UW6kyhG4C18xzUn&ust=1721120917330000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjx653ZqIcDFQAAAAAdAAAAABAE">
-    <img class="logo" src="https://www.salesforce.com/content/dam/web/en_us/images/global/logos/salesforce-logo.svg" alt="Salesforce Logo">
-    <img class="logo" src="https://www.aicte-india.org/images/aicte-logo.png" alt="AICTE Logo">
-    <img class="logo" src="https://www.apsche.ac.in/images/apsche.png" alt="APSCHE Logo">
-  </div>
-
+ 
   <div class="certificate">
     <h1>CERTIFICATE OF COMPLETION</h1>
     <h3 class="date">November 22, 2022</h3>
@@ -151,26 +145,6 @@ h2 {
       <li>Super Badge - Apex Specialist</li>
       <li>Super Badge - Process Automation Specialist</li>
     </ul>
-  </div>
-
-  <div class="footer">
-    <p>Certificate ID: SISFVIPAD2022-29759 | Verify this certificate @ http://smartinternz.com/internships/salesforce_certificates/bc0c06456b3c6d29acf100c89ee9b1d3</p>
-  </div>
-
-  <div class="signature">
-    <img src="https://www.smartinternz.com/images/logos/signature-buddha.png" alt="Signature of Shri Buddha Chandraseker">
-    <p><strong>Shri Buddha Chandraseker</strong><br>Chief Coordinating Officer(CCO), NEAT Cell-AICTE</p>
-  </div>
-
-  <div class="signature">
-    <img src="https://www.smartinternz.com/images/logos/signature-hema.png" alt="Signature of Prof K. Hemachandra Reddy">
-    <p><strong>Prof K. Hemachandra Reddy</strong><br>Chairman, Andhra Pradesh State Council for Higher Education</p>
-  </div>
-
-  <div class="signature">
-    <img src="https://www.smartinternz.com/images/logos/signature-amarender.png" alt="Signature of Mr Amarender Katkam">
-    <p><strong>Mr Amarender Katkam</strong><br>Founder & CEO, TheSmartBridge & SmartInternz</p>
-  </div>
 </div>
 </body>
 </html>
