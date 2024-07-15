@@ -125,7 +125,7 @@ h2 {
   <div class="certificate">
     <h1>CERTIFICATE OF COMPLETION</h1>
     <h3 class="date">November 22, 2022</h3>
-    <h2 class="name">Chilamala  Vinay kumar</h2>
+    <h2 class="name">GUNTHA ESWAR NAIDU (Bittu)</h2>
   </div>
 
   <div class="details">
