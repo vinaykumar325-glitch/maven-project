@@ -139,7 +139,7 @@ h2 {
       <li>Jenkins Setup</li>
       <li> Process Automation</li>
       <li>CI/CD</li>
-      <li>Testing & Debugging</li>
+      <li>ansible</li>
       <li>VS Code Setup & CLI Setup</li>
       <li>AWS Pipeline</li>
       <li>EC2</li>
